@@ -1,0 +1,36 @@
+/* * {
+    margin: 0 !important;
+    padding: 0 !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+} */
+body {
+    background:#E5E5E5;
+}
+.inline {
+    display: inline;
+}
+.inline-block {
+    display: inline-block;
+}
+.block {
+    display: block;
+}
+.c-grey {
+    color: #929292;
+}
+.cursor {
+    cursor: pointer;
+}
+.c-red {
+    color: #f80e0e;
+}
+.card-image{
+    width: 270px;
+    height: 170px;
+    object-fit: cover;
+}
+.form-image{
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+}
